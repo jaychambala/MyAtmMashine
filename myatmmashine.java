@@ -15,7 +15,7 @@ public class MyATMmashine {
     
     
    public static void menu(){
-       System.out.println("Wellcome" + " " + USERNAME + " " + "Press any one for the choice");
+       System.out.println("Wellcome" + " " + USERNAME + " " + "Press Any Number For The Choice");
        System.out.println("1. Amount cheking");
        System.out.println("2. Deposit fedha");
        System.out.println("3. Toa fedha");
